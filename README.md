@@ -5,8 +5,12 @@
 ## 准备工作
 1. 准备一个快团团账号，登录后获取访问权限
 2. 抓包工具--fiddler，fiddler的配置及使用不再做详细描述
+3. chrome浏览器（或其它可开发者调试的浏览器）
 ## 抓包
 对任意接口抓包，如下图
-<br>
+</br>
  ![image](https://github.com/BigWhitee/ktt-anticont/blob/main/1.png)
-<br>
+</br>
+进行分析后，发现有一个关键加密参数 anti-content会随着翻页进行动态变化,其余接口均如此；其加密方式未知，所以解密anticontent是关键步骤
+## 调试跟包
+为获取anticontent加密方式，想到利用chrome的开发者调试工具，对参数进行调试跟包
