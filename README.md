@@ -29,4 +29,4 @@
 之后跳转到某个方法中，分析起来太费事了，直接js全扣，肝就完事，nodejs跑起来，缺啥补啥，懒得写了
 ## 最后
 生成有效js后，我习惯使用python用于生产，使用execjs进行调用，成功获取到anti-content参数，破解也就算是完成了，接下来便可用于生产，模拟请求，实现自动化操作了
-![image](https://user-images.githubusercontent.com/43695412/205471070-8bf096c1-90e3-447c-b9c1-772e86e7e149.png)
+![image](https://user-images.githubusercontent.com/43695412/205471119-62e677f9-12d5-4b2b-83ed-acda4f4ce57c.png)
