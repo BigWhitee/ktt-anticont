@@ -14,3 +14,5 @@
 进行分析后，发现有一个关键加密参数 anti-content会随着翻页进行动态变化,其余接口均如此；其加密方式未知，所以解密anticontent是关键步骤
 ## 调试跟包
 为获取anticontent加密方式，想到利用chrome的开发者调试工具，对参数进行调试跟包
+选择第一个js打入断点
+![image](https://user-images.githubusercontent.com/43695412/205470631-d280a786-e96e-4575-9ad2-f0fbabca780f.png)
