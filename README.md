@@ -31,4 +31,4 @@
 生成有效js后，我习惯使用python用于生产，使用execjs进行调用，成功获取到anti-content参数，破解也就算是完成了，接下来便可用于生产，模拟请求，实现自动化操作了
 ![image](https://user-images.githubusercontent.com/43695412/205471119-62e677f9-12d5-4b2b-83ed-acda4f4ce57c.png)
 ## 联系方式
-vx:YarnBlue
+wx: YarnBlue
