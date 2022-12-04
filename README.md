@@ -5,5 +5,8 @@
 ## 准备工作
 1. 准备一个快团团账号，登录后获取访问权限
 2. 抓包工具--fiddler，fiddler的配置及使用不再做详细描述
-3. 对任意接口进行抓包
- ![image](https://github.com/BigWhitee/ktt-anticont/blob/main/1.png)
+## 抓包
+对任意接口抓包，如下图
+<br>
+ ![image](https://github.com/BigWhitee/ktt-anticont/blob/main/1.png)
+<br>
